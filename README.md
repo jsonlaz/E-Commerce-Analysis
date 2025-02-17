@@ -28,10 +28,15 @@ The analysis is performed in Python using Pandas, Matplotlib, and Seaborn librar
 
 4. **Churn Analysis:**
     - Calculate the overall churn rate.
+  
+5. Time Series Analysis
+   - Sales Trends Over Time
 
 ## Visualizations
 
 The analysis includes various visualizations to provide clear insights into the data. The visualizations were done using Power BI; Exported and saved the relevant datasets as CSV from Python to computer and joined the datasets in Power BI.
+
+[Interactive Visualization Using Power BI](https://public.tableau.com/views/imdb_movies_dataset_visualization/Dashboard1)
 
 The visualization includes:
 
