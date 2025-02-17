@@ -36,7 +36,7 @@ The analysis is performed in Python using Pandas, Matplotlib, and Seaborn librar
 
 The analysis includes various visualizations to provide clear insights into the data. The visualizations were done using Power BI; Exported and saved the relevant datasets as CSV from Python to computer and joined the datasets in Power BI.
 
-[Interactive Visualization Using Power BI]([https://public.tableau.com/views/imdb_movies_dataset_visualization/Dashboard1](https://github.com/jsonlaz/E-Commerce-Analysis/blob/main/E-commerce%20Customer%20Behavior%20Analysis.pbix))
+[Interactive Visualization Using Power BI](https://github.com/jsonlaz/E-Commerce-Analysis/blob/main/E-commerce%20Customer%20Behavior%20Analysis.pbix)
 
 The visualization includes:
 
