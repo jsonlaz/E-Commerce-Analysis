@@ -4,7 +4,7 @@ This project explores an e-commerce dataset to understand customer behavior, seg
 
 ## Dataset
 
-The dataset contains customer transaction data. [Click Raw Data](https://www.kaggle.com/datasets/shriyashjagtap/e-commerce-customer-for-behavior-analysis) to see the dataset on Kaggle and the data description.
+The dataset contains customer transaction data from 2020-2023. [Click Raw Data](https://www.kaggle.com/datasets/shriyashjagtap/e-commerce-customer-for-behavior-analysis) to see the dataset on Kaggle and the data description.
 
 ## Analysis
 
