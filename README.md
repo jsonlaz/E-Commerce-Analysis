@@ -50,7 +50,7 @@ The visualization includes:
 ## Results:
 
 - ﻿﻿The customer churn Rate was 23.37%. Count of Churn trended down, resulting in a 53.02% decrease between January 2020 and September 2023. Count of Churn started trending down on May 2023, falling by 52.99% (3,012) in 4 months. ﻿Count of Churn was trending up between June 2022 and March 2023 with a rise of 226 but had a significant change in trend and dropped by 3,012 starting May 2023.
-- Credit card was the most preferred payment method, accounting for 40.19% of the payment methods
+- Credit card was the most preferred payment method, accounting for 40.19% of the payment methods.
 - ﻿﻿Loyal Customers accounted for 96.28% of Customers.﻿﻿ ﻿﻿Loyal Customers had 38,433 Customers and Regular Customers had 1,487.﻿﻿ 
 - The sum of Total Purchase Amount dropped from 15399935 to 7381783 during its steepest decline between May 2023 and September 2023.﻿﻿ The Total Purchase Amount was unexpectedly low on September 2023, having a value of 7381783, which is outside the expected range of 11112320-19878580.
 - Michael Smith had the maximum customer frequency with 107 days.
